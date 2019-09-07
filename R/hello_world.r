@@ -7,6 +7,7 @@
 #' @examples
 #' hello_world()
 #' hello_world('Tom')
+#' @export
 hello_world <- function(name = 'World') {
   glue::glue('Hello {name}')
 }
