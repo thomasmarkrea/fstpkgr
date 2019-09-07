@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     glue (>= 1.2.0)
+RoxygenNote: 6.1.1
